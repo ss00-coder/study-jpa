@@ -1,0 +1,10 @@
+Spring IOC 컨테이너, Spring Bean 컨테이너, Spring 컨테이너
+@Configuration, @Bean, @Component, @Mapper, @Repository, @Service, @Controller
+3-Tier(Persistence, Business, Presentation)
+Spring MVC(Front-Controller Pattern)
+@RequestParam, @RequestBody, @ResponseBody, @RestController
+@Transactional
+AOP, Proxy
+MultipartRequest
+
+DBMS 정규화와 반정규화, 상속관계(SUPER KEY, SUB KEY), 연관관계(FK), 중간 테이블, INNER JOIN, OUTER JOIN
